@@ -1,0 +1,431 @@
+REPORT
+==================================================
+
+1. WORD FREQUENCY
+--------------------------------------------------
+a: 2
+after: 2
+algorithms: 1
+an: 1
+and: 10
+at: 1
+beside: 1
+brushed: 1
+bugs: 1
+but: 1
+c: 1
+came: 1
+cat: 1
+cats: 2
+chaos: 1
+chasing: 1
+clean: 1
+cod: 1
+code: 12
+coded: 1
+coffee: 1
+collected: 1
+command: 1
+comment: 1
+compile: 1
+copied: 1
+created: 1
+curled: 1
+data: 4
+debugged: 1
+dictionaries: 1
+digital: 1
+dreaming: 1
+each: 1
+enter: 1
+errors: 1
+every: 5
+exceptions: 1
+favorite: 1
+filled: 1
+filling: 1
+firewall: 1
+fish: 1
+functions: 3
+furry: 1
+glowing: 1
+guarded: 1
+happened: 1
+hunted: 2
+in: 3
+indentation: 1
+java: 1
+jumped: 1
+key: 1
+keyboard: 1
+lab: 1
+laptop: 1
+lightning: 1
+like: 2
+liked: 1
+lines: 1
+lists: 2
+logic: 1
+loops: 1
+loved: 2
+magic: 1
+messages: 1
+mice: 1
+missed: 1
+more: 1
+morning: 1
+named: 1
+never: 1
+night: 2
+ninja: 6
+normal: 1
+not: 1
+of: 2
+only: 1
+onto: 1
+ordinary: 1
+other: 1
+perfect: 2
+proudly: 1
+pure: 1
+purred: 1
+purring: 1
+python: 2
+rare: 1
+run: 1
+s: 4
+salmon: 1
+screen: 1
+scripts: 1
+semicolon: 1
+sets: 1
+slept: 1
+speed: 1
+stored: 1
+string: 1
+success: 1
+successful: 1
+syntax: 1
+tail: 1
+terminal: 1
+the: 13
+they: 1
+tuna: 1
+under: 1
+unique: 1
+variables: 1
+was: 3
+watch: 1
+way: 1
+were: 2
+when: 2
+whisker: 15
+with: 3
+world: 1
+wrote: 1
+
+2. UNIQUE WORDS
+--------------------------------------------------
+a
+after
+algorithms
+an
+and
+at
+beside
+brushed
+bugs
+but
+c
+came
+cat
+cats
+chaos
+chasing
+clean
+cod
+code
+coded
+coffee
+collected
+command
+comment
+compile
+copied
+created
+curled
+data
+debugged
+dictionaries
+digital
+dreaming
+each
+enter
+errors
+every
+exceptions
+favorite
+filled
+filling
+firewall
+fish
+functions
+furry
+glowing
+guarded
+happened
+hunted
+in
+indentation
+java
+jumped
+key
+keyboard
+lab
+laptop
+lightning
+like
+liked
+lines
+lists
+logic
+loops
+loved
+magic
+messages
+mice
+missed
+more
+morning
+named
+never
+night
+ninja
+normal
+not
+of
+only
+onto
+ordinary
+other
+perfect
+proudly
+pure
+purred
+purring
+python
+rare
+run
+s
+salmon
+screen
+scripts
+semicolon
+sets
+slept
+speed
+stored
+string
+success
+successful
+syntax
+tail
+terminal
+the
+they
+tuna
+under
+unique
+variables
+was
+watch
+way
+were
+when
+whisker
+with
+world
+wrote
+
+3. PARAGRAPH COMPARISON
+--------------------------------------------------
+
+3.1 COMMON WORDS
+and
+cats
+code
+every
+like
+lists
+night
+ninja
+of
+python
+s
+the
+was
+when
+whisker
+with
+
+3.2 ONLY IN PARAGRAPH 1
+after
+an
+brushed
+but
+cat
+chaos
+chasing
+cod
+coded
+coffee
+copied
+created
+debugged
+digital
+enter
+favorite
+filled
+fish
+glowing
+happened
+jumped
+key
+keyboard
+lightning
+lines
+logic
+loops
+loved
+magic
+messages
+mice
+named
+not
+only
+onto
+ordinary
+other
+proudly
+pure
+purring
+run
+salmon
+scripts
+slept
+speed
+success
+successful
+tail
+terminal
+they
+tuna
+variables
+were
+world
+
+3.3 UNIQUE (NOT COMMON)
+a
+after
+algorithms
+an
+at
+beside
+brushed
+bugs
+but
+c
+came
+cat
+chaos
+chasing
+clean
+cod
+coded
+coffee
+collected
+command
+comment
+compile
+copied
+created
+curled
+data
+debugged
+dictionaries
+digital
+dreaming
+each
+enter
+errors
+exceptions
+favorite
+filled
+filling
+firewall
+fish
+functions
+furry
+glowing
+guarded
+happened
+hunted
+in
+indentation
+java
+jumped
+key
+keyboard
+lab
+laptop
+lightning
+liked
+lines
+logic
+loops
+loved
+magic
+messages
+mice
+missed
+more
+morning
+named
+never
+normal
+not
+only
+onto
+ordinary
+other
+perfect
+proudly
+pure
+purred
+purring
+rare
+run
+salmon
+screen
+scripts
+semicolon
+sets
+slept
+speed
+stored
+string
+success
+successful
+syntax
+tail
+terminal
+they
+tuna
+under
+unique
+variables
+watch
+way
+were
+world
+wrote
